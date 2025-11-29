@@ -1,0 +1,9 @@
+{
+	"name": "skondalaazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "256ed9af-9963-4a9b-846a-ad40986ac304",
+		"tenantId": "51787d6a-b3cf-49d0-b85e-25e65609cfcb"
+	}
+}
