@@ -324,10 +324,8 @@
 					{
 						"activity": "ForEach1",
 						"dependencyConditions": [
-							"Skipped",
 							"Failed",
-							"Succeeded",
-							"Completed"
+							"Succeeded"
 						]
 					}
 				],
