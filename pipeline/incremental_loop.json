@@ -1,5 +1,5 @@
 {
-	"name": "__________________incremental_loop",
+	"name": "incremental_loop",
 	"properties": {
 		"activities": [
 			{
@@ -349,7 +349,7 @@
 					{
 						"schema": "dbo",
 						"table": "FactStream",
-						"cdc_col": "updated_at",
+						"cdc_col": "stream_timestamp",
 						"from_date": ""
 					}
 				]
